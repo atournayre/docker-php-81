@@ -11,16 +11,19 @@ A [Docker](https://www.docker.com/)-based installer for PHP environment.
 
 ## Features
 
+* For development only!
 * Just 1 service : PHP FPM
+* Xdebug enabled
 * Super-readable configuration
 
 **Enjoy!**
 
 ## Docs
 
-[Installing Xdebug](docs/xdebug.md)
+[Xdebug](docs/xdebug.md)
 
 ## Credits
 
-Created by [Aurélien Tournayre](https://github.com/atournayre)
+Created by [Aurélien Tournayre](https://github.com/atournayre).
+
 Based on [Symfony Docker](https://github.com/dunglas/symfony-docker).
