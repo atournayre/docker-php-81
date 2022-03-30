@@ -14,7 +14,7 @@ On PHPStorm, click on `Start Listening for PHP Debug Connections` in the `Run` m
 Otherwise, you can create a [PHP Remote Debug](https://www.jetbrains.com/help/phpstorm/creating-a-php-debug-server-configuration.html) configuration with the following parameters:
 
 * Server:
-  * Name: `symfony` (must be the same as defined in `PHP_IDE_CONFIG`)
+  * Name: `php` (must be the same as defined in `PHP_IDE_CONFIG`)
   * Host: `https://localhost` (or the one defined with `SERVER_NAME`)
   * Port: `443`
   * Debugger: `Xdebug`
